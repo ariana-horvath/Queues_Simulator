@@ -1,6 +1,7 @@
 # Queues_Simulator
 
 Main objective
+
   Design and implement a simulation application aiming to analyze queuing based systems for determining and minimizing clients’ waiting time.
   It should have a graphical interface through which the user can insert the simulation time, number of clients, number of queues and maximum and minimum arrival time and 
 service time for each client. 
